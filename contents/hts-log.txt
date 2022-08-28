@@ -1,0 +1,132 @@
+HTTrack3.49-2 launched on Sun, 28 Aug 2022 15:30:38 at https://bibledit.org
+(httrack https://bibledit.org -O contents -%v -r8 -D -b1 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:31:56	Error: 	"Not Found" (404) at link https://bibledit.org/GET (from https://bibledit.org/)
+15:33:00	Error: 	"Not Found" (404) at link https://bibledit.org/donate.html (from https://bibledit.org/)
+15:33:08	Warning: 	Moved Permanently for https://bibledit.org/?p=348
+15:33:08	Warning: 	File has moved from https://bibledit.org/?p=348 to https://bibledit.org/installation/
+15:33:08	Error: 	"Not Found" (404) at link https://bibledit.org/installation/GET (from https://bibledit.org/installation/)
+15:33:46	Warning: 	Retry after error 500 (Internal Server Error) at link https://bibledit.org/?customize_changeset_uuid=f7f1b40e-e38b-4dd9-8dd7-4f54b6b3e89d&customize_messenger_channel=preview-3 (from https://bibledit.org/installation/)
+15:33:52	Warning: 	Moved Permanently for https://bibledit.org/?p=344
+15:33:52	Warning: 	File has moved from https://bibledit.org/?p=344 to https://bibledit.org/support/
+15:33:52	Error: 	"Not Found" (404) at link https://bibledit.org/support/GET (from https://bibledit.org/support/)
+15:33:52	Warning: 	Moved Permanently for https://bibledit.org/?p=346
+15:33:52	Warning: 	File has moved from https://bibledit.org/?p=346 to https://bibledit.org/video-tutorials/
+15:33:52	Error: 	"Not Found" (404) at link https://bibledit.org/video-tutorials/GET (from https://bibledit.org/video-tutorials/)
+15:33:52	Warning: 	Moved Permanently for https://bibledit.org/?p=2073
+15:33:52	Warning: 	File has moved from https://bibledit.org/?p=2073 to https://bibledit.org/help/
+15:33:52	Error: 	"Not Found" (404) at link https://bibledit.org/help/GET (from https://bibledit.org/help/)
+15:35:15	Warning: 	Moved Permanently for https://bibledit.org/?p=3272
+15:35:15	Warning: 	File has moved from https://bibledit.org/?p=3272 to https://bibledit.org/contact/
+15:35:15	Error: 	"Not Found" (404) at link https://bibledit.org/contact/GET (from https://bibledit.org/contact/)
+15:35:15	Warning: 	Moved Permanently for https://bibledit.org/?p=3502
+15:35:15	Warning: 	File has moved from https://bibledit.org/?p=3502 to https://bibledit.org/features-bibledit/
+15:35:15	Error: 	"Not Found" (404) at link https://bibledit.org/features-bibledit/GET (from https://bibledit.org/features-bibledit/)
+15:35:15	Warning: 	Moved Permanently for https://bibledit.org/?p=1965
+15:35:15	Warning: 	File has moved from https://bibledit.org/?p=1965 to https://bibledit.org/install-bibledit-on-windows/
+15:35:15	Error: 	"Not Found" (404) at link https://bibledit.org/install-bibledit-on-windows/GET (from https://bibledit.org/install-bibledit-on-windows/)
+15:35:15	Warning: 	Moved Permanently for https://bibledit.org/?p=1968
+15:35:15	Warning: 	File has moved from https://bibledit.org/?p=1968 to https://bibledit.org/install-bibledit-on-linux/
+15:35:15	Error: 	"Not Found" (404) at link https://bibledit.org/install-bibledit-on-linux/GET (from https://bibledit.org/install-bibledit-on-linux/)
+15:35:20	Warning: 	Moved Permanently for https://bibledit.org/?p=1979
+15:35:20	Warning: 	File has moved from https://bibledit.org/?p=1979 to https://bibledit.org/install-bibledit-on-macos/
+15:35:20	Error: 	"Not Found" (404) at link https://bibledit.org/install-bibledit-on-macos/GET (from https://bibledit.org/install-bibledit-on-macos/)
+15:35:20	Warning: 	Moved Permanently for https://bibledit.org/?p=1999
+15:35:20	Warning: 	File has moved from https://bibledit.org/?p=1999 to https://bibledit.org/install-bibledit-on-chrome-os/
+15:35:20	Error: 	"Not Found" (404) at link https://bibledit.org/install-bibledit-on-chrome-os/GET (from https://bibledit.org/install-bibledit-on-chrome-os/)
+15:35:21	Warning: 	Moved Permanently for https://bibledit.org/?p=2002
+15:35:21	Warning: 	File has moved from https://bibledit.org/?p=2002 to https://bibledit.org/install-bibledit-on-ios/
+15:35:21	Error: 	"Not Found" (404) at link https://bibledit.org/install-bibledit-on-iOS/GET (from https://bibledit.org/install-bibledit-on-iOS/)
+15:35:21	Warning: 	Moved Permanently for https://bibledit.org/?p=2007
+15:35:21	Warning: 	File has moved from https://bibledit.org/?p=2007 to https://bibledit.org/install-bibledit-on-android/
+15:35:21	Error: 	"Not Found" (404) at link https://bibledit.org/install-bibledit-on-android/GET (from https://bibledit.org/install-bibledit-on-android/)
+15:35:21	Warning: 	Moved Permanently for https://bibledit.org/?p=1983
+15:35:21	Warning: 	File has moved from https://bibledit.org/?p=1983 to https://bibledit.org/install-bibledit-cloud-on-ubuntu/
+15:35:21	Error: 	"Not Found" (404) at link https://bibledit.org/install-bibledit-cloud-on-ubuntu/GET (from https://bibledit.org/install-bibledit-cloud-on-ubuntu/)
+15:35:26	Warning: 	Retry after error 500 (Internal Server Error) at link https://bibledit.org/?customize_changeset_uuid=f7f1b40e-e38b-4dd9-8dd7-4f54b6b3e89d&customize_messenger_channel=preview-3 (from https://bibledit.org/installation/)
+15:35:26	Warning: 	Moved Permanently for https://bibledit.org/?p=2084
+15:35:26	Warning: 	File has moved from https://bibledit.org/?p=2084 to https://bibledit.org/help-introduction/
+15:35:26	Error: 	"Not Found" (404) at link https://bibledit.org/help-introduction/GET (from https://bibledit.org/help-introduction/)
+15:35:26	Warning: 	Moved Permanently for https://bibledit.org/?p=2086
+15:35:26	Warning: 	File has moved from https://bibledit.org/?p=2086 to https://bibledit.org/help-installation/
+15:35:26	Error: 	"Not Found" (404) at link https://bibledit.org/help-installation/GET (from https://bibledit.org/help-installation/)
+15:35:36	Warning: 	Moved Permanently for https://bibledit.org/?p=2088
+15:35:36	Warning: 	File has moved from https://bibledit.org/?p=2088 to https://bibledit.org/help-methodology/
+15:35:36	Error: 	"Not Found" (404) at link https://bibledit.org/help-methodology/GET (from https://bibledit.org/help-methodology/)
+15:35:41	Error: 	"Not Found" (404) at link https://bibledit.org/help-discussions (from https://bibledit.org/help-methodology/)
+15:35:46	Warning: 	Moved Permanently for https://bibledit.org/?p=2090
+15:35:46	Warning: 	File has moved from https://bibledit.org/?p=2090 to https://bibledit.org/help-navigation/
+15:35:46	Error: 	"Not Found" (404) at link https://bibledit.org/help-navigation/GET (from https://bibledit.org/help-navigation/)
+15:35:46	Warning: 	Moved Permanently for https://bibledit.org/?p=2092
+15:35:46	Warning: 	File has moved from https://bibledit.org/?p=2092 to https://bibledit.org/help-keyboard-shortcuts/
+15:35:46	Error: 	"Not Found" (404) at link https://bibledit.org/help-keyboard-shortcuts/GET (from https://bibledit.org/help-keyboard-shortcuts/)
+15:35:46	Warning: 	Moved Permanently for https://bibledit.org/?p=2098
+15:35:46	Warning: 	File has moved from https://bibledit.org/?p=2098 to https://bibledit.org/help-screen-swiping/
+15:35:46	Error: 	"Not Found" (404) at link https://bibledit.org/help-screen-swiping/GET (from https://bibledit.org/help-screen-swiping/)
+15:35:46	Warning: 	Moved Permanently for https://bibledit.org/?p=2096
+15:35:46	Warning: 	File has moved from https://bibledit.org/?p=2096 to https://bibledit.org/help-consultations/
+15:35:46	Error: 	"Not Found" (404) at link https://bibledit.org/help-consultations/GET (from https://bibledit.org/help-consultations/)
+15:35:46	Warning: 	Moved Permanently for https://bibledit.org/?p=2100
+15:35:46	Warning: 	File has moved from https://bibledit.org/?p=2100 to https://bibledit.org/help-consistency/
+15:35:46	Error: 	"Not Found" (404) at link https://bibledit.org/help-consistency/GET (from https://bibledit.org/help-consistency/)
+15:35:46	Warning: 	Moved Permanently for https://bibledit.org/?p=2102
+15:35:46	Warning: 	File has moved from https://bibledit.org/?p=2102 to https://bibledit.org/help-checks/
+15:35:46	Error: 	"Not Found" (404) at link https://bibledit.org/help-checks/GET (from https://bibledit.org/help-checks/)
+15:35:46	Warning: 	Moved Permanently for https://bibledit.org/?p=2104
+15:35:46	Warning: 	File has moved from https://bibledit.org/?p=2104 to https://bibledit.org/help-teams/
+15:35:46	Error: 	"Not Found" (404) at link https://bibledit.org/help-teams/GET (from https://bibledit.org/help-teams/)
+15:35:46	Warning: 	Moved Permanently for https://bibledit.org/?p=2106
+15:35:46	Warning: 	File has moved from https://bibledit.org/?p=2106 to https://bibledit.org/help-typesetting/
+15:35:46	Error: 	"Not Found" (404) at link https://bibledit.org/help-typesetting/GET (from https://bibledit.org/help-typesetting/)
+15:36:01	Warning: 	Moved Permanently for https://bibledit.org/?p=2108
+15:36:01	Warning: 	File has moved from https://bibledit.org/?p=2108 to https://bibledit.org/help-tips-and-tricks/
+15:36:01	Error: 	"Not Found" (404) at link https://bibledit.org/help-tips-and-tricks/GET (from https://bibledit.org/help-tips-and-tricks/)
+15:36:01	Warning: 	Moved Permanently for https://bibledit.org/?p=2110
+15:36:01	Warning: 	File has moved from https://bibledit.org/?p=2110 to https://bibledit.org/help-about/
+15:36:01	Error: 	"Not Found" (404) at link https://bibledit.org/help-about/GET (from https://bibledit.org/help-about/)
+15:36:16	Warning: 	Moved Permanently for https://bibledit.org/?p=1972
+15:36:16	Warning: 	File has moved from https://bibledit.org/?p=1972 to https://bibledit.org/install-bibledit-on-ubuntu/
+15:36:16	Error: 	"Not Found" (404) at link https://bibledit.org/install-bibledit-on-ubuntu/GET (from https://bibledit.org/install-bibledit-on-ubuntu/)
+15:36:16	Error: 	"Not Found" (404) at link https://bibledit.org/install-bibledit-on-ios/GET (from https://bibledit.org/install-bibledit-on-ios/)
+15:36:16	Warning: 	Moved Permanently for https://bibledit.org/?p=1988
+15:36:16	Warning: 	File has moved from https://bibledit.org/?p=1988 to https://bibledit.org/install-bibledit-cloud-on-debian-and-ubuntu/
+15:36:16	Error: 	"Not Found" (404) at link https://bibledit.org/install-bibledit-cloud-on-debian-and-ubuntu/GET (from https://bibledit.org/install-bibledit-cloud-on-debian-and-ubuntu/)
+15:36:16	Error: 	"Internal Server Error" (500) after 2 retries at link https://bibledit.org/?customize_changeset_uuid=f7f1b40e-e38b-4dd9-8dd7-4f54b6b3e89d&customize_messenger_channel=preview-3 (from https://bibledit.org/installation/)
+15:36:16	Warning: 	Moved Permanently for https://bibledit.org/?p=2133
+15:36:16	Warning: 	File has moved from https://bibledit.org/?p=2133 to https://bibledit.org/install-bibledit-cloud-on-centos/
+15:36:16	Error: 	"Not Found" (404) at link https://bibledit.org/install-bibledit-cloud-on-centos/GET (from https://bibledit.org/install-bibledit-cloud-on-centos/)
+15:36:16	Warning: 	Moved Permanently for https://bibledit.org/?p=2879
+15:36:16	Warning: 	File has moved from https://bibledit.org/?p=2879 to https://bibledit.org/install-bibledit-cloud-on-linux/
+15:36:16	Error: 	"Not Found" (404) at link https://bibledit.org/install-bibledit-cloud-on-linux/GET (from https://bibledit.org/install-bibledit-cloud-on-linux/)
+15:36:16	Warning: 	Moved Permanently for https://bibledit.org/?p=2143
+15:36:16	Warning: 	File has moved from https://bibledit.org/?p=2143 to https://bibledit.org/scrum-based-translation/
+15:36:16	Error: 	"Not Found" (404) at link https://bibledit.org/scrum-based-translation/GET (from https://bibledit.org/scrum-based-translation/)
+15:36:16	Warning: 	Moved Permanently for https://bibledit.org/?p=2148
+15:36:16	Warning: 	File has moved from https://bibledit.org/?p=2148 to https://bibledit.org/lean-management/
+15:36:16	Error: 	"Not Found" (404) at link https://bibledit.org/lean-management/GET (from https://bibledit.org/lean-management/)
+15:36:16	Warning: 	Moved Permanently for https://bibledit.org/?p=2168
+15:36:16	Warning: 	File has moved from https://bibledit.org/?p=2168 to https://bibledit.org/typesetting-in-libreoffice/
+15:36:16	Error: 	"Not Found" (404) at link https://bibledit.org/typesetting-in-libreoffice/GET (from https://bibledit.org/typesetting-in-libreoffice/)
+15:36:16	Warning: 	Moved Permanently for https://bibledit.org/?p=2171
+15:36:16	Warning: 	File has moved from https://bibledit.org/?p=2171 to https://bibledit.org/typesetting-in-scribus/
+15:36:16	Error: 	"Not Found" (404) at link https://bibledit.org/typesetting-in-scribus/GET (from https://bibledit.org/typesetting-in-scribus/)
+15:36:16	Warning: 	Moved Permanently for https://bibledit.org/?p=2174
+15:36:16	Warning: 	File has moved from https://bibledit.org/?p=2174 to https://bibledit.org/typesetting-in-adobe-indesign/
+15:36:16	Error: 	"Not Found" (404) at link https://bibledit.org/typesetting-in-adobe-indesign/GET (from https://bibledit.org/typesetting-in-adobe-indesign/)
+15:36:16	Warning: 	Moved Permanently for https://bibledit.org/?p=2195
+15:36:16	Warning: 	File has moved from https://bibledit.org/?p=2195 to https://bibledit.org/free-bible/
+15:36:16	Error: 	"Not Found" (404) at link https://bibledit.org/free-bible/GET (from https://bibledit.org/free-bible/)
+15:36:16	Warning: 	Moved Permanently for https://bibledit.org/?p=2197
+15:36:16	Warning: 	File has moved from https://bibledit.org/?p=2197 to https://bibledit.org/changelog/
+15:36:16	Error: 	"Not Found" (404) at link https://bibledit.org/changelog/GET (from https://bibledit.org/changelog/)
+15:36:16	Warning: 	Moved Permanently for https://bibledit.org/?p=2199
+15:36:16	Warning: 	File has moved from https://bibledit.org/?p=2199 to https://bibledit.org/licenses/
+15:36:16	Error: 	"Not Found" (404) at link https://bibledit.org/licenses/GET (from https://bibledit.org/licenses/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 38 seconds : 365 links scanned, 281 files written (10467752 bytes overall) [10198050 bytes received at 30171 bytes/sec], 3987201 bytes transferred using HTTP compression in 118 files, ratio 22%, 8.4 requests per connection
+(43 errors, 78 warnings, 0 messages)
