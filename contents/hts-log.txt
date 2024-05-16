@@ -1,4 +1,4 @@
-HTTrack3.49-2 launched on Thu, 16 May 2024 15:52:10 at http://192.168.2.12
+HTTrack3.49-2 launched on Thu, 16 May 2024 16:33:50 at http://192.168.2.12
 (httrack http://192.168.2.12 -O contents -%v -r8 -D -b1 )
 
 Information, Warnings and Errors reported for this mirror:
@@ -6,84 +6,189 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-15:55:44	Warning: 	Moved Permanently for 192.168.2.12/?p=348
-15:55:44	Warning: 	File has moved from 192.168.2.12/?p=348 to http://192.168.2.12/installation/
-15:56:08	Warning: 	Retry after error 500 (Internal Server Error) at link 192.168.2.12/?customize_changeset_uuid=f7f1b40e-e38b-4dd9-8dd7-4f54b6b3e89d&customize_messenger_channel=preview-3 (from 192.168.2.12/installation/)
-15:56:42	Warning: 	Moved Permanently for 192.168.2.12/?p=344
-15:56:42	Warning: 	File has moved from 192.168.2.12/?p=344 to http://192.168.2.12/support/
-15:56:42	Warning: 	Moved Permanently for 192.168.2.12/?p=346
-15:56:42	Warning: 	File has moved from 192.168.2.12/?p=346 to http://192.168.2.12/video-tutorials/
-15:56:42	Warning: 	Moved Permanently for 192.168.2.12/?p=2073
-15:56:42	Warning: 	File has moved from 192.168.2.12/?p=2073 to http://192.168.2.12/help/
-15:57:52	Warning: 	Moved Permanently for 192.168.2.12/?p=3502
-15:57:52	Warning: 	File has moved from 192.168.2.12/?p=3502 to http://192.168.2.12/features-bibledit/
-15:57:52	Warning: 	Moved Permanently for 192.168.2.12/?p=1965
-15:57:52	Warning: 	File has moved from 192.168.2.12/?p=1965 to http://192.168.2.12/install-bibledit-on-windows/
-15:57:52	Warning: 	Moved Permanently for 192.168.2.12/?p=1968
-15:57:52	Warning: 	File has moved from 192.168.2.12/?p=1968 to http://192.168.2.12/install-bibledit-on-linux/
-15:57:56	Warning: 	Moved Permanently for 192.168.2.12/?p=1979
-15:57:56	Warning: 	File has moved from 192.168.2.12/?p=1979 to http://192.168.2.12/install-bibledit-on-macos/
-15:57:56	Warning: 	Moved Permanently for 192.168.2.12/?p=1999
-15:57:56	Warning: 	File has moved from 192.168.2.12/?p=1999 to http://192.168.2.12/install-bibledit-on-chrome-os/
-15:57:56	Warning: 	Moved Permanently for 192.168.2.12/?p=2002
-15:57:56	Warning: 	File has moved from 192.168.2.12/?p=2002 to http://192.168.2.12/install-bibledit-on-ios/
-15:57:56	Warning: 	Moved Permanently for 192.168.2.12/?p=2007
-15:57:56	Warning: 	File has moved from 192.168.2.12/?p=2007 to http://192.168.2.12/install-bibledit-on-android/
-15:57:56	Warning: 	Moved Permanently for 192.168.2.12/?p=1983
-15:57:56	Warning: 	File has moved from 192.168.2.12/?p=1983 to http://192.168.2.12/install-bibledit-cloud-on-ubuntu/
-15:57:56	Warning: 	Retry after error 500 (Internal Server Error) at link 192.168.2.12/?customize_changeset_uuid=f7f1b40e-e38b-4dd9-8dd7-4f54b6b3e89d&customize_messenger_channel=preview-3 (from 192.168.2.12/installation/)
-15:57:56	Warning: 	Moved Permanently for 192.168.2.12/?p=2084
-15:57:56	Warning: 	File has moved from 192.168.2.12/?p=2084 to http://192.168.2.12/help-introduction/
-15:57:56	Warning: 	Moved Permanently for 192.168.2.12/?p=2086
-15:57:56	Warning: 	File has moved from 192.168.2.12/?p=2086 to http://192.168.2.12/help-installation/
-15:58:05	Warning: 	Moved Permanently for 192.168.2.12/?p=2088
-15:58:05	Warning: 	File has moved from 192.168.2.12/?p=2088 to http://192.168.2.12/help-methodology/
-15:58:08	Error: 	"Not Found" (404) at link 192.168.2.12/help-discussions (from 192.168.2.12/help-methodology/)
-15:58:11	Warning: 	Moved Permanently for 192.168.2.12/?p=2090
-15:58:11	Warning: 	File has moved from 192.168.2.12/?p=2090 to http://192.168.2.12/help-navigation/
-15:58:11	Warning: 	Moved Permanently for 192.168.2.12/?p=2092
-15:58:11	Warning: 	File has moved from 192.168.2.12/?p=2092 to http://192.168.2.12/help-keyboard-shortcuts/
-15:58:11	Warning: 	Moved Permanently for 192.168.2.12/?p=2098
-15:58:11	Warning: 	File has moved from 192.168.2.12/?p=2098 to http://192.168.2.12/help-screen-swiping/
-15:58:11	Warning: 	Moved Permanently for 192.168.2.12/?p=2096
-15:58:11	Warning: 	File has moved from 192.168.2.12/?p=2096 to http://192.168.2.12/help-consultations/
-15:58:11	Warning: 	Moved Permanently for 192.168.2.12/?p=2100
-15:58:11	Warning: 	File has moved from 192.168.2.12/?p=2100 to http://192.168.2.12/help-consistency/
-15:58:11	Warning: 	Moved Permanently for 192.168.2.12/?p=2102
-15:58:11	Warning: 	File has moved from 192.168.2.12/?p=2102 to http://192.168.2.12/help-checks/
-15:58:11	Warning: 	Moved Permanently for 192.168.2.12/?p=2104
-15:58:11	Warning: 	File has moved from 192.168.2.12/?p=2104 to http://192.168.2.12/help-teams/
-15:58:11	Warning: 	Moved Permanently for 192.168.2.12/?p=2106
-15:58:11	Warning: 	File has moved from 192.168.2.12/?p=2106 to http://192.168.2.12/help-typesetting/
-15:58:21	Warning: 	Moved Permanently for 192.168.2.12/?p=2108
-15:58:21	Warning: 	File has moved from 192.168.2.12/?p=2108 to http://192.168.2.12/help-tips-and-tricks/
-15:58:21	Warning: 	Moved Permanently for 192.168.2.12/?p=2110
-15:58:21	Warning: 	File has moved from 192.168.2.12/?p=2110 to http://192.168.2.12/help-about/
-15:58:32	Warning: 	Moved Permanently for 192.168.2.12/?p=1972
-15:58:32	Warning: 	File has moved from 192.168.2.12/?p=1972 to http://192.168.2.12/install-bibledit-on-ubuntu/
-15:58:32	Error: 	"Internal Server Error" (500) after 2 retries at link 192.168.2.12/?customize_changeset_uuid=f7f1b40e-e38b-4dd9-8dd7-4f54b6b3e89d&customize_messenger_channel=preview-3 (from 192.168.2.12/installation/)
-15:58:32	Warning: 	Moved Permanently for 192.168.2.12/?p=2133
-15:58:32	Warning: 	File has moved from 192.168.2.12/?p=2133 to http://192.168.2.12/install-bibledit-cloud-on-centos/
-15:58:32	Warning: 	Moved Permanently for 192.168.2.12/?p=1988
-15:58:32	Warning: 	File has moved from 192.168.2.12/?p=1988 to http://192.168.2.12/install-bibledit-cloud-on-debian-and-ubuntu/
-15:58:32	Warning: 	Moved Permanently for 192.168.2.12/?p=2879
-15:58:32	Warning: 	File has moved from 192.168.2.12/?p=2879 to http://192.168.2.12/install-bibledit-cloud-on-linux/
-15:58:32	Warning: 	Moved Permanently for 192.168.2.12/?p=2143
-15:58:32	Warning: 	File has moved from 192.168.2.12/?p=2143 to http://192.168.2.12/scrum-based-translation/
-15:58:32	Warning: 	Moved Permanently for 192.168.2.12/?p=2148
-15:58:32	Warning: 	File has moved from 192.168.2.12/?p=2148 to http://192.168.2.12/lean-management/
-15:58:32	Warning: 	Moved Permanently for 192.168.2.12/?p=2168
-15:58:32	Warning: 	File has moved from 192.168.2.12/?p=2168 to http://192.168.2.12/typesetting-in-libreoffice/
-15:58:32	Warning: 	Moved Permanently for 192.168.2.12/?p=2171
-15:58:32	Warning: 	File has moved from 192.168.2.12/?p=2171 to http://192.168.2.12/typesetting-in-scribus/
-15:58:32	Warning: 	Moved Permanently for 192.168.2.12/?p=2174
-15:58:32	Warning: 	File has moved from 192.168.2.12/?p=2174 to http://192.168.2.12/typesetting-in-adobe-indesign/
-15:58:32	Warning: 	Moved Permanently for 192.168.2.12/?p=2195
-15:58:32	Warning: 	File has moved from 192.168.2.12/?p=2195 to http://192.168.2.12/free-bible/
-15:58:32	Warning: 	Moved Permanently for 192.168.2.12/?p=2197
-15:58:32	Warning: 	File has moved from 192.168.2.12/?p=2197 to http://192.168.2.12/changelog/
-15:58:33	Warning: 	Moved Permanently for 192.168.2.12/?p=2199
-15:58:33	Warning: 	File has moved from 192.168.2.12/?p=2199 to http://192.168.2.12/licenses/
+16:34:28	Warning: 	Moved Permanently for 192.168.2.12/index.php/support
+16:34:28	Warning: 	File has moved from 192.168.2.12/index.php/support to http://192.168.2.12/support/
+16:34:29	Warning: 	Moved Permanently for 192.168.2.12/index.php/video-tutorials
+16:34:29	Warning: 	File has moved from 192.168.2.12/index.php/video-tutorials to http://192.168.2.12/video-tutorials/
+16:34:34	Warning: 	Moved Permanently for 192.168.2.12/features-bibledit
+16:34:34	Warning: 	File has moved from 192.168.2.12/features-bibledit to http://192.168.2.12/features-bibledit/
+16:34:34	Error: 	Unable to save file contents/192.168.2.12/features-bibledit: Is a directory
+16:34:35	Warning: 	Moved Permanently for 192.168.2.12/support
+16:34:35	Warning: 	File has moved from 192.168.2.12/support to http://192.168.2.12/support/
+16:34:35	Error: 	Unable to save file contents/192.168.2.12/support: Is a directory
+16:34:36	Warning: 	Moved Permanently for 192.168.2.12/help
+16:34:36	Warning: 	File has moved from 192.168.2.12/help to http://192.168.2.12/help/
+16:34:36	Error: 	Unable to save file contents/192.168.2.12/help: Is a directory
+16:34:43	Warning: 	Moved Permanently for 192.168.2.12/?p=348
+16:34:43	Warning: 	File has moved from 192.168.2.12/?p=348 to http://192.168.2.12/installation/
+16:34:44	Warning: 	Moved Permanently for 192.168.2.12/install-bibledit-on-windows
+16:34:44	Warning: 	File has moved from 192.168.2.12/install-bibledit-on-windows to http://192.168.2.12/install-bibledit-on-windows/
+16:34:44	Error: 	Unable to save file contents/192.168.2.12/install-bibledit-on-windows: Is a directory
+16:34:45	Warning: 	Moved Permanently for 192.168.2.12/install-bibledit-on-linux
+16:34:45	Warning: 	File has moved from 192.168.2.12/install-bibledit-on-linux to http://192.168.2.12/install-bibledit-on-linux/
+16:34:45	Error: 	Unable to save file contents/192.168.2.12/install-bibledit-on-linux: Is a directory
+16:34:46	Warning: 	Moved Permanently for 192.168.2.12/install-bibledit-on-macos
+16:34:46	Warning: 	File has moved from 192.168.2.12/install-bibledit-on-macos to http://192.168.2.12/install-bibledit-on-macos/
+16:34:46	Error: 	Unable to save file contents/192.168.2.12/install-bibledit-on-macos: Is a directory
+16:34:46	Warning: 	Moved Permanently for 192.168.2.12/install-bibledit-on-chrome-os
+16:34:46	Warning: 	File has moved from 192.168.2.12/install-bibledit-on-chrome-os to http://192.168.2.12/install-bibledit-on-chrome-os/
+16:34:46	Error: 	Unable to save file contents/192.168.2.12/install-bibledit-on-chrome-os: Is a directory
+16:34:48	Warning: 	Moved Permanently for 192.168.2.12/install-bibledit-on-android
+16:34:48	Warning: 	File has moved from 192.168.2.12/install-bibledit-on-android to http://192.168.2.12/install-bibledit-on-android/
+16:34:48	Error: 	Unable to save file contents/192.168.2.12/install-bibledit-on-android: Is a directory
+16:34:49	Warning: 	Moved Permanently for 192.168.2.12/install-bibledit-cloud-on-ubuntu
+16:34:49	Warning: 	File has moved from 192.168.2.12/install-bibledit-cloud-on-ubuntu to http://192.168.2.12/install-bibledit-cloud-on-ubuntu/
+16:34:49	Error: 	Unable to save file contents/192.168.2.12/install-bibledit-cloud-on-ubuntu: Is a directory
+16:34:50	Warning: 	Retry after error 500 (Internal Server Error) at link 192.168.2.12/?customize_changeset_uuid=f7f1b40e-e38b-4dd9-8dd7-4f54b6b3e89d&customize_messenger_channel=preview-3 (from 192.168.2.12/installation/)
+16:34:54	Warning: 	Moved Permanently for 192.168.2.12/?p=2073
+16:34:54	Warning: 	File has moved from 192.168.2.12/?p=2073 to http://192.168.2.12/help/
+16:34:55	Warning: 	Moved Permanently for 192.168.2.12/help-introduction
+16:34:55	Warning: 	File has moved from 192.168.2.12/help-introduction to http://192.168.2.12/help-introduction/
+16:34:55	Error: 	Unable to save file contents/192.168.2.12/help-introduction: Is a directory
+16:34:56	Warning: 	Moved Permanently for 192.168.2.12/help-installation
+16:34:56	Warning: 	File has moved from 192.168.2.12/help-installation to http://192.168.2.12/help-installation/
+16:34:56	Error: 	Unable to save file contents/192.168.2.12/help-installation: Is a directory
+16:34:56	Warning: 	Moved Permanently for 192.168.2.12/help-methodology
+16:34:56	Warning: 	File has moved from 192.168.2.12/help-methodology to http://192.168.2.12/help-methodology/
+16:34:56	Error: 	Unable to save file contents/192.168.2.12/help-methodology: Is a directory
+16:34:56	Warning: 	Moved Permanently for 192.168.2.12/help-navigation
+16:34:56	Warning: 	File has moved from 192.168.2.12/help-navigation to http://192.168.2.12/help-navigation/
+16:34:56	Error: 	Unable to save file contents/192.168.2.12/help-navigation: Is a directory
+16:34:56	Warning: 	Moved Permanently for 192.168.2.12/help-keyboard-shortcuts
+16:34:56	Warning: 	File has moved from 192.168.2.12/help-keyboard-shortcuts to http://192.168.2.12/help-keyboard-shortcuts/
+16:34:56	Error: 	Unable to save file contents/192.168.2.12/help-keyboard-shortcuts: Is a directory
+16:34:57	Warning: 	Moved Permanently for 192.168.2.12/help-screen-swiping
+16:34:57	Warning: 	File has moved from 192.168.2.12/help-screen-swiping to http://192.168.2.12/help-screen-swiping/
+16:34:57	Error: 	Unable to save file contents/192.168.2.12/help-screen-swiping: Is a directory
+16:34:57	Warning: 	Moved Permanently for 192.168.2.12/help-consultations
+16:34:57	Warning: 	File has moved from 192.168.2.12/help-consultations to http://192.168.2.12/help-consultations/
+16:34:57	Error: 	Unable to save file contents/192.168.2.12/help-consultations: Is a directory
+16:34:57	Warning: 	Moved Permanently for 192.168.2.12/help-consistency
+16:34:57	Warning: 	File has moved from 192.168.2.12/help-consistency to http://192.168.2.12/help-consistency/
+16:34:57	Error: 	Unable to save file contents/192.168.2.12/help-consistency: Is a directory
+16:34:57	Warning: 	Moved Permanently for 192.168.2.12/help-checks
+16:34:57	Warning: 	File has moved from 192.168.2.12/help-checks to http://192.168.2.12/help-checks/
+16:34:57	Error: 	Unable to save file contents/192.168.2.12/help-checks: Is a directory
+16:34:58	Warning: 	Moved Permanently for 192.168.2.12/help-teams
+16:34:58	Warning: 	File has moved from 192.168.2.12/help-teams to http://192.168.2.12/help-teams/
+16:34:58	Error: 	Unable to save file contents/192.168.2.12/help-teams: Is a directory
+16:35:00	Warning: 	Moved Permanently for 192.168.2.12/help-tips-and-tricks
+16:35:00	Warning: 	File has moved from 192.168.2.12/help-tips-and-tricks to http://192.168.2.12/help-tips-and-tricks/
+16:35:00	Error: 	Unable to save file contents/192.168.2.12/help-tips-and-tricks: Is a directory
+16:35:01	Warning: 	Moved Permanently for 192.168.2.12/help-about
+16:35:01	Warning: 	File has moved from 192.168.2.12/help-about to http://192.168.2.12/help-about/
+16:35:01	Error: 	Unable to save file contents/192.168.2.12/help-about: Is a directory
+16:35:03	Warning: 	Moved Permanently for 192.168.2.12/?p=346
+16:35:03	Warning: 	File has moved from 192.168.2.12/?p=346 to http://192.168.2.12/video-tutorials/
+16:35:09	Warning: 	Moved Permanently for 192.168.2.12/?p=2002
+16:35:09	Warning: 	File has moved from 192.168.2.12/?p=2002 to http://192.168.2.12/install-bibledit-on-ios/
+16:35:12	Warning: 	Retry after error 500 (Internal Server Error) at link 192.168.2.12/?customize_changeset_uuid=f7f1b40e-e38b-4dd9-8dd7-4f54b6b3e89d&customize_messenger_channel=preview-3 (from 192.168.2.12/installation/)
+16:35:13	Warning: 	Moved Permanently for 192.168.2.12/?p=344
+16:35:13	Warning: 	File has moved from 192.168.2.12/?p=344 to http://192.168.2.12/support/
+16:35:25	Warning: 	Moved Permanently for 192.168.2.12/?p=2106
+16:35:25	Warning: 	File has moved from 192.168.2.12/?p=2106 to http://192.168.2.12/help-typesetting/
+16:35:26	Warning: 	Moved Permanently for 192.168.2.12/typesetting-in-libreoffice
+16:35:26	Warning: 	File has moved from 192.168.2.12/typesetting-in-libreoffice to http://192.168.2.12/typesetting-in-libreoffice/
+16:35:26	Error: 	Unable to save file contents/192.168.2.12/typesetting-in-libreoffice: Is a directory
+16:35:27	Warning: 	Moved Permanently for 192.168.2.12/typesetting-in-scribus
+16:35:27	Warning: 	File has moved from 192.168.2.12/typesetting-in-scribus to http://192.168.2.12/typesetting-in-scribus/
+16:35:27	Error: 	Unable to save file contents/192.168.2.12/typesetting-in-scribus: Is a directory
+16:35:28	Warning: 	Moved Permanently for 192.168.2.12/typesetting-in-adobe-indesign
+16:35:28	Warning: 	File has moved from 192.168.2.12/typesetting-in-adobe-indesign to http://192.168.2.12/typesetting-in-adobe-indesign/
+16:35:28	Error: 	Unable to save file contents/192.168.2.12/typesetting-in-adobe-indesign: Is a directory
+16:35:31	Warning: 	Moved Permanently for 192.168.2.12/?p=3502
+16:35:31	Warning: 	File has moved from 192.168.2.12/?p=3502 to http://192.168.2.12/features-bibledit/
+16:35:32	Warning: 	Moved Permanently for 192.168.2.12/?p=1965
+16:35:32	Warning: 	File has moved from 192.168.2.12/?p=1965 to http://192.168.2.12/install-bibledit-on-windows/
+16:35:33	Warning: 	Moved Permanently for 192.168.2.12/?p=1968
+16:35:33	Warning: 	File has moved from 192.168.2.12/?p=1968 to http://192.168.2.12/install-bibledit-on-linux/
+16:35:34	Warning: 	Moved Permanently for 192.168.2.12/install-bibledit-on-ubuntu
+16:35:34	Warning: 	File has moved from 192.168.2.12/install-bibledit-on-ubuntu to http://192.168.2.12/install-bibledit-on-ubuntu/
+16:35:34	Error: 	Unable to save file contents/192.168.2.12/install-bibledit-on-ubuntu: Is a directory
+16:35:35	Warning: 	Moved Permanently for 192.168.2.12/?p=1979
+16:35:35	Warning: 	File has moved from 192.168.2.12/?p=1979 to http://192.168.2.12/install-bibledit-on-macos/
+16:35:36	Warning: 	Moved Permanently for 192.168.2.12/?p=1999
+16:35:36	Warning: 	File has moved from 192.168.2.12/?p=1999 to http://192.168.2.12/install-bibledit-on-chrome-os/
+16:35:37	Warning: 	Moved Permanently for 192.168.2.12/?p=2007
+16:35:37	Warning: 	File has moved from 192.168.2.12/?p=2007 to http://192.168.2.12/install-bibledit-on-android/
+16:35:38	Warning: 	Moved Permanently for 192.168.2.12/?p=1983
+16:35:38	Warning: 	File has moved from 192.168.2.12/?p=1983 to http://192.168.2.12/install-bibledit-cloud-on-ubuntu/
+16:35:39	Error: 	"Internal Server Error" (500) after 2 retries at link 192.168.2.12/?customize_changeset_uuid=f7f1b40e-e38b-4dd9-8dd7-4f54b6b3e89d&customize_messenger_channel=preview-3 (from 192.168.2.12/installation/)
+16:35:40	Warning: 	Moved Permanently for 192.168.2.12/?p=2084
+16:35:40	Warning: 	File has moved from 192.168.2.12/?p=2084 to http://192.168.2.12/help-introduction/
+16:35:41	Warning: 	Moved Permanently for 192.168.2.12/?p=2086
+16:35:41	Warning: 	File has moved from 192.168.2.12/?p=2086 to http://192.168.2.12/help-installation/
+16:35:41	Warning: 	Moved Permanently for 192.168.2.12/install-bibledit-on-window
+16:35:41	Warning: 	File has moved from 192.168.2.12/install-bibledit-on-window to http://192.168.2.12/install-bibledit-on-windows/
+16:35:41	Warning: 	Moved Permanently for 192.168.2.12/install-bibledit-on-ios
+16:35:41	Warning: 	File has moved from 192.168.2.12/install-bibledit-on-ios to http://192.168.2.12/install-bibledit-on-ios/
+16:35:41	Error: 	Unable to save file contents/192.168.2.12/install-bibledit-on-ios: Is a directory
+16:35:41	Warning: 	Moved Permanently for 192.168.2.12/install-bibledit-cloud-on-centos
+16:35:41	Warning: 	File has moved from 192.168.2.12/install-bibledit-cloud-on-centos to http://192.168.2.12/install-bibledit-cloud-on-centos/
+16:35:41	Error: 	Unable to save file contents/192.168.2.12/install-bibledit-cloud-on-centos: Is a directory
+16:35:43	Warning: 	Moved Permanently for 192.168.2.12/install-bibledit-cloud-on-linux
+16:35:43	Warning: 	File has moved from 192.168.2.12/install-bibledit-cloud-on-linux to http://192.168.2.12/install-bibledit-cloud-on-linux/
+16:35:43	Error: 	Unable to save file contents/192.168.2.12/install-bibledit-cloud-on-linux: Is a directory
+16:35:44	Warning: 	Moved Permanently for 192.168.2.12/?p=2088
+16:35:44	Warning: 	File has moved from 192.168.2.12/?p=2088 to http://192.168.2.12/help-methodology/
+16:35:44	Warning: 	Moved Permanently for 192.168.2.12/scrum-based-translation
+16:35:44	Warning: 	File has moved from 192.168.2.12/scrum-based-translation to http://192.168.2.12/scrum-based-translation/
+16:35:44	Error: 	Unable to save file contents/192.168.2.12/scrum-based-translation: Is a directory
+16:35:44	Error: 	"Not Found" (404) at link 192.168.2.12/help-discussions (from 192.168.2.12/help-methodology/)
+16:35:44	Warning: 	Moved Permanently for 192.168.2.12/lean-management
+16:35:44	Warning: 	File has moved from 192.168.2.12/lean-management to http://192.168.2.12/lean-management/
+16:35:44	Error: 	Unable to save file contents/192.168.2.12/lean-management: Is a directory
+16:35:44	Warning: 	Moved Permanently for 192.168.2.12/?p=2090
+16:35:44	Warning: 	File has moved from 192.168.2.12/?p=2090 to http://192.168.2.12/help-navigation/
+16:35:44	Warning: 	Moved Permanently for 192.168.2.12/?p=2092
+16:35:44	Warning: 	File has moved from 192.168.2.12/?p=2092 to http://192.168.2.12/help-keyboard-shortcuts/
+16:35:44	Warning: 	Moved Permanently for 192.168.2.12/?p=2098
+16:35:44	Warning: 	File has moved from 192.168.2.12/?p=2098 to http://192.168.2.12/help-screen-swiping/
+16:35:44	Warning: 	Moved Permanently for 192.168.2.12/?p=2096
+16:35:44	Warning: 	File has moved from 192.168.2.12/?p=2096 to http://192.168.2.12/help-consultations/
+16:35:44	Warning: 	Moved Permanently for 192.168.2.12/?p=2100
+16:35:44	Warning: 	File has moved from 192.168.2.12/?p=2100 to http://192.168.2.12/help-consistency/
+16:35:44	Warning: 	Moved Permanently for 192.168.2.12/?p=2102
+16:35:44	Warning: 	File has moved from 192.168.2.12/?p=2102 to http://192.168.2.12/help-checks/
+16:35:44	Warning: 	Moved Permanently for 192.168.2.12/?p=2104
+16:35:44	Warning: 	File has moved from 192.168.2.12/?p=2104 to http://192.168.2.12/help-teams/
+16:35:47	Warning: 	Moved Permanently for 192.168.2.12/?p=2108
+16:35:47	Warning: 	File has moved from 192.168.2.12/?p=2108 to http://192.168.2.12/help-tips-and-tricks/
+16:35:48	Warning: 	Moved Permanently for 192.168.2.12/?p=2110
+16:35:48	Warning: 	File has moved from 192.168.2.12/?p=2110 to http://192.168.2.12/help-about/
+16:35:49	Warning: 	Moved Permanently for 192.168.2.12/free-bible
+16:35:49	Warning: 	File has moved from 192.168.2.12/free-bible to http://192.168.2.12/free-bible/
+16:35:49	Error: 	Unable to save file contents/192.168.2.12/free-bible: Is a directory
+16:35:50	Warning: 	Moved Permanently for 192.168.2.12/changelog
+16:35:50	Warning: 	File has moved from 192.168.2.12/changelog to http://192.168.2.12/changelog/
+16:35:50	Error: 	Unable to save file contents/192.168.2.12/changelog: Is a directory
+16:35:52	Warning: 	Moved Permanently for 192.168.2.12/licenses
+16:35:52	Warning: 	File has moved from 192.168.2.12/licenses to http://192.168.2.12/licenses/
+16:35:52	Error: 	Unable to save file contents/192.168.2.12/licenses: Is a directory
+16:35:55	Warning: 	Moved Permanently for 192.168.2.12/?p=1988
+16:35:55	Warning: 	File has moved from 192.168.2.12/?p=1988 to http://192.168.2.12/install-bibledit-cloud-on-debian-and-ubuntu/
+16:35:59	Warning: 	Moved Permanently for 192.168.2.12/?p=2168
+16:35:59	Warning: 	File has moved from 192.168.2.12/?p=2168 to http://192.168.2.12/typesetting-in-libreoffice/
+16:36:00	Warning: 	Moved Permanently for 192.168.2.12/?p=2171
+16:36:00	Warning: 	File has moved from 192.168.2.12/?p=2171 to http://192.168.2.12/typesetting-in-scribus/
+16:36:01	Warning: 	Moved Permanently for 192.168.2.12/?p=2174
+16:36:01	Warning: 	File has moved from 192.168.2.12/?p=2174 to http://192.168.2.12/typesetting-in-adobe-indesign/
+16:36:05	Warning: 	Moved Permanently for 192.168.2.12/?p=1972
+16:36:05	Warning: 	File has moved from 192.168.2.12/?p=1972 to http://192.168.2.12/install-bibledit-on-ubuntu/
+16:36:06	Warning: 	Moved Permanently for 192.168.2.12/?p=2133
+16:36:06	Warning: 	File has moved from 192.168.2.12/?p=2133 to http://192.168.2.12/install-bibledit-cloud-on-centos/
+16:36:07	Warning: 	Moved Permanently for 192.168.2.12/?p=2879
+16:36:07	Warning: 	File has moved from 192.168.2.12/?p=2879 to http://192.168.2.12/install-bibledit-cloud-on-linux/
+16:36:08	Warning: 	Moved Permanently for 192.168.2.12/?p=2143
+16:36:08	Warning: 	File has moved from 192.168.2.12/?p=2143 to http://192.168.2.12/scrum-based-translation/
+16:36:08	Warning: 	Moved Permanently for 192.168.2.12/?p=2148
+16:36:08	Warning: 	File has moved from 192.168.2.12/?p=2148 to http://192.168.2.12/lean-management/
+16:36:08	Warning: 	Moved Permanently for 192.168.2.12/?p=2195
+16:36:08	Warning: 	File has moved from 192.168.2.12/?p=2195 to http://192.168.2.12/free-bible/
+16:36:11	Warning: 	Moved Permanently for 192.168.2.12/?p=2197
+16:36:11	Warning: 	File has moved from 192.168.2.12/?p=2197 to http://192.168.2.12/changelog/
+16:36:11	Warning: 	Moved Permanently for 192.168.2.12/?p=2199
+16:36:11	Warning: 	File has moved from 192.168.2.12/?p=2199 to http://192.168.2.12/licenses/
 
-HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 23 seconds : 273 links scanned, 231 files written (10196468 bytes overall), 232 files updated [7478111 bytes received at 19525 bytes/sec], 3830117 bytes transferred using HTTP compression in 112 files, ratio 23%, 4.6 requests per connection
-(2 errors, 76 warnings, 0 messages)
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 21 seconds : 309 links scanned, 231 files written (10196690 bytes overall), 189 files updated [2076238 bytes received at 14725 bytes/sec], 3830605 bytes transferred using HTTP compression in 112 files, ratio 23%, 20.9 requests per connection
+(35 errors, 148 warnings, 0 messages)
