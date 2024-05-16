@@ -1,5 +1,5 @@
-https://bibledit.org -O contents -%v -r8 -D -b1
-File generated automatically on Sun, 28 Aug 2022 15:30:38, do NOT edit
+http://192.168.2.12 -O contents -%v -r8 -D -b1
+File generated automatically on Thu, 16 May 2024 15:52:10, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)
