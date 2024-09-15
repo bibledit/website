@@ -1,8 +1,0 @@
-http://192.168.2.12 -O contents -%v -r8 -D -b1
-File generated automatically on Thu, 16 May 2024 16:33:50, do NOT edit
-
-To update a mirror, just launch httrack without any parameters
-The existing cache will be used (and modified)
-To have other options, retype all parameters and launch HTTrack
-To continue an interrupted mirror, just launch httrack without any parameters
-
