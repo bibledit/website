@@ -25,21 +25,22 @@
 var NAVTREE =
 [
   [ "Bibledit", "index.html", [
-    [ "Introduction", "index.html#autotoc_md1", [
-      [ "Why Bibledit?", "index.html#autotoc_md2", null ],
-      [ "Features of Bibledit", "index.html#autotoc_md3", null ],
-      [ "Reviews", "index.html#autotoc_md4", null ]
+    [ "Quick install", "index.html#autotoc_md1", null ],
+    [ "Introduction", "index.html#autotoc_md2", [
+      [ "Why Bibledit?", "index.html#autotoc_md3", null ],
+      [ "Features of Bibledit", "index.html#autotoc_md4", null ],
+      [ "Reviews", "index.html#autotoc_md5", null ]
     ] ],
-    [ "Installation", "index.html#autotoc_md5", [
-      [ "How to install Bibledit", "index.html#autotoc_md6", null ],
-      [ "Why Bibledit Cloud?", "index.html#autotoc_md7", null ],
-      [ "How Bibledit works", "index.html#autotoc_md8", null ],
-      [ "Installation instructions", "index.html#autotoc_md9", null ]
+    [ "Installation", "index.html#autotoc_md6", [
+      [ "Installation instructions", "index.html#autotoc_md7", null ],
+      [ "How to install Bibledit", "index.html#autotoc_md8", null ],
+      [ "Why Bibledit Cloud?", "index.html#autotoc_md9", null ],
+      [ "How Bibledit works", "index.html#autotoc_md10", null ]
     ] ],
-    [ "Support", "index.html#autotoc_md10", [
-      [ "Video tutorials", "index.html#autotoc_md11", null ],
-      [ "Discussion forum", "index.html#autotoc_md12", null ],
-      [ "Bibledit demo", "index.html#autotoc_md13", null ]
+    [ "Support", "index.html#autotoc_md11", [
+      [ "Video tutorials", "index.html#autotoc_md12", null ],
+      [ "Discussion forum", "index.html#autotoc_md13", null ],
+      [ "Bibledit demo", "index.html#autotoc_md14", null ]
     ] ]
   ] ]
 ];

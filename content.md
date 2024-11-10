@@ -13,7 +13,18 @@ Translate at any time, anywhere, on any device
 </h2>
 </div>
 
-<img src="header.jpeg" width="100%">
+<!--<img src="header.jpeg" width="100%">-->
+
+
+## Quick install
+
+* [Bibledit on Windows](https://bibledit.org:8091/help/installwindows)
+* [Bibledit on Android](https://bibledit.org:8091/help/installandroid)
+* [Bibledit on macOS](https://bibledit.org:8091/help/installosx)
+* [Bibledit on Linux](https://bibledit.org:8091/help/installlinux)
+* [Bibledit on iOS](https://bibledit.org:8091/help/installios)
+* [Bibledit on Chrome OS](https://bibledit.org:8091/help/installchromeos)
+* [Bibledit Cloud on Linux](https://bibledit.org:8091/help/installcloudlinux)
 
 ## Introduction
 
@@ -27,14 +38,14 @@ Installation is easy, and it is free. On the [Installation page](#installation) 
 
 Most of the interface of Bibledit has been translated into French (over 88%), and could even be translated into other languages. Brazilian Portuguese has been done for 29%, and Indonesian for 19%. If you want to contribute: Go to [the settings of the Demo of Bibledit](https://bibledit.org:8091/system/index). And [here is an overview of what has been done already](https://translations.launchpad.net/bibledit).
 
-<img src="shonabibles.jpeg" width="50%" style="display: block; margin-left: auto; margin-right: auto;">
-<center> 
-These students are so happy with their new Shona Bibles (Zimbabwe)
-</center>
+<!--<img src="shonabibles.jpeg" width="50%" style="display: block; margin-left: auto; margin-right: auto;">-->
+<!--<center> -->
+<!--These students are so happy with their new Shona Bibles (Zimbabwe)-->
+<!--</center>-->
 
 ### Why Bibledit?
 
-<div style="background-color:rgb(238,247,239);">
+<!--<div style="background-color:rgb(238,247,239);">-->
 Reasons for choosing Bibledit include the following:
 * No registration needed.
 * Bibledit is open source software. This means that one can adapt it to his or her personal needs, for example in certain difficult circumstances.
@@ -47,7 +58,7 @@ Reasons for choosing Bibledit include the following:
 * It comes with all the necessary tools and resources.
 * Basically Bibledit can upload any Bible in any language for reference. In some very rare cases it could happen that a browser does not support all characters of a script. This can be verified with the demo.
 * The program guides through the whole process, from the start to the completion and typesetting of the Bible.
-</div>
+<!--</div>-->
 
 
 ### Features of Bibledit
@@ -130,32 +141,34 @@ Reasons for choosing Bibledit include the following:
 
 ### Reviews
 
-<div style="background-color:rgb(238,247,239);border-radius: 25px;">
+<!--<div style="background-color:rgb(238,247,239);border-radius: 25px;">-->
 Read the [interesting review](https://map.bloomfire.com/posts/2452652-bibledit-now-translation-teams-can-edit-scripture-on-any-device) of a translator who has been working with Bibledit.
-</div>
-<div style="padding-bottom: 15px;">
-</div>
-<div style="background-color:rgb(238,247,239);border-radius: 25px;">
+<!--</div>-->
+<!--<div style="padding-bottom: 15px;">-->
+<!--</div>-->
+<!--<div style="background-color:rgb(238,247,239);border-radius: 25px;">-->
 And [here is his update](https://map.bloomfire.com/posts/2714971-update-on-bibledit).
-</div>
+<!--</div>-->
 
 
 <a name="installation"></a>
 ## Installation
 
+### Installation instructions
+
+There are quick and simple installation instructions for Windows, Linux, macOS, Chroms OS, iOS, Android, and the Cloud. [This link to the installation instructions takes you to the Bibledit demo online help](https://bibledit.org:8091/help/installation).
+
 ### How to install Bibledit
 
-<div style="background-color:rgb(238,247,239);">
 Installation of Bibledit software goes in 3 steps (or 4 for admins) which are all necessary.
-</div>
 
-1 Install the Bibledit Client on your device. This can be any device (computer, Chromebook, tablet, iPad, mobile phone) or operating system (Windows, Linux, macOS, Chrome OS, iOS, Android).
+1. Install the Bibledit Client on your device. This can be any device (computer, Chromebook, tablet, iPad, mobile phone) or operating system (Windows, Linux, macOS, Chrome OS, iOS, Android).
 
-2 Install Bibledit Cloud on a VPS server (either local or with a hosting provider). [See lots of information here](https://map.bloomfire.com/posts/5101673-). 
+2. Install Bibledit Cloud on a VPS server (either local or with a hosting provider). [See lots of information here](https://map.bloomfire.com/posts/5101673-). 
 
-3 Connect the Client to the Cloud. This is a one-off step. This can simply be done by clicking on ‘Connect to Bibledit Cloud” in your Bibledit Client, and by entering host name, port number, username and password.
+3. Connect the Client to the Cloud. This is a one-off step. This can simply be done by clicking on ‘Connect to Bibledit Cloud” in your Bibledit Client, and by entering host name, port number, username and password.
 
-4 For some features there is an extra login needed to Bibledit Cloud. Here are some more options for admins, like setting up user accounts for the team members, and some more like for planning, printing, e-mail settings, notification settings, uploading image resources and a few more.
+4. For some features there is an extra login needed to Bibledit Cloud. Here are some more options for admins, like setting up user accounts for the team members, and some more like for planning, printing, e-mail settings, notification settings, uploading image resources and a few more.
 
 ### Why Bibledit Cloud?
 
@@ -186,31 +199,19 @@ For certain functions of Bibledit one needs to actually log in to the Cloud, eve
 
 Please use the forum for any remaining questions! Enjoy the program!
 
-### Installation instructions
-
-There are installation instructions for Windows, Linux, macOS, Chroms OS, iOS, Android, and the Cloud. [This link to the installation instructions takes you to the Bibledit demo online help](https://bibledit.org:8091/help/installation).
-
 ## Support
 
-<div style="background-color:rgb(242,225,215);margin-block-start: 1em;margin-block-end: 1em;">
+<!-- This paragraph used to have a background-color:rgb(242,225,215) in the original Wordpress webite. But a user with a special theme in the browser could not read it with that background color. Hence this the styling was removed for improved clariry. -->
+
 Bibledit Translation Software comes with many resources and various ways of online and personal support.
-</div>
 
-<div style="background-color:rgb(242,225,215);margin-block-start: 1em;margin-block-end: 1em;">
 The support greatly helps you enhance your Bible translation work and take it to the next level.
-</div>
 
-<div style="background-color:rgb(242,225,215);margin-block-start: 1em;margin-block-end: 1em;">
 Find out how to easily compare different translations and digital resources.
-</div>
 
-<div style="background-color:rgb(242,225,215);margin-block-start: 1em;margin-block-end: 1em;">
 Discover how Bibledit can assist you with the translation work and how it performs to fascilitate teamwork through the Bibledit Cloud.
-</div>
 
-<div style="background-color:rgb(242,225,215);margin-block-start: 1em;margin-block-end: 1em;">
 Discover the flexibility of the program and see how translation work can even be done while travelling for example.
-</div>
 
 [The Bibledit online help provides in-depth information on the use of Bibledit Translation Software](https://bibledit.org:8091/help/index).
 
